@@ -2,3 +2,4 @@ bananas
 milk
 bread
 butter
+eggs
